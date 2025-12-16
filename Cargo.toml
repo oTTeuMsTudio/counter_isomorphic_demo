@@ -41,7 +41,7 @@ ssr = [
     "dep:tower",
     "dep:tower-http",
     "dep:tokio",
-    "dep:leptos_axum",
+    "dep:leptos_actix",
     "leptos/ssr",
     "leptos_meta/ssr",
     "leptos_router/ssr",
